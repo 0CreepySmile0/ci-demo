@@ -1,6 +1,8 @@
 Continuous Integration Demo
 ===========================
 
+[![Run Flake8](https://github.com/0CreepySmile0/ci-demo/actions/workflows/style-checking.yml/badge.svg)](https://github.com/0CreepySmile0/ci-demo/actions/workflows/style-checking.yml)
+[![Run Unit Test](https://github.com/0CreepySmile0/ci-demo/actions/workflows/unittest.yml/badge.svg)](https://github.com/0CreepySmile0/ci-demo/actions/workflows/unittest.yml)
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 ## Automatic Testing
